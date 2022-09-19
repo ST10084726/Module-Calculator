@@ -33,6 +33,13 @@ I used Visual Studio to construct this software. Without any plug-ins, I created
 - Git version no: 2.36.1
 - ML.NET Model Builder
 
+## Run the Project
+* Download Visual Studio using the link above
+* Download the file name "PROG6212_POE_Part1" onto your desktop
+*Open the file on Visual Studio
+* Either press F5 or above the button Run to start the program
+* Fill in your details and the program will begin running and processing the info you have entered
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
